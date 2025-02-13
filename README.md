@@ -1,6 +1,6 @@
 hi im hexique
 ========================
-shitty developer with 2y exp* 
+shitty developer with 2y exp
 
 🌍 I'm based in Tatartan\
 🧠 I'm learning programming\
