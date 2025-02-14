@@ -19,3 +19,9 @@ shitty developer with 2y exp
 <b>my stats</b>
 
 <a href="https://github.com/hexique" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexique&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
