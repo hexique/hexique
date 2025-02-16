@@ -2,7 +2,7 @@ hi im hexique
 ========================
 shitty developer with 2y exp
 
-🌍 I'm based in Tatartan\
+🌍 I'm based in Tatarstan\
 🧠 I'm learning programming\
 🤝 I'm open to collaborating on literally everything
 
