@@ -20,10 +20,6 @@ shitty developer with 2y exp, bday: 29.06.2012 (12y)
 
 <a href="https://github.com/hexique" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexique&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## Other
-
-<button>I wonder if it is possible to add buttons to md file?</button>
-
 ## ehehhe snake eats activity
 
 <picture>
