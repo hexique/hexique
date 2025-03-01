@@ -1,10 +1,10 @@
-hi im hexique
+Hello, I am Your name!
 ========================
 shitty developer with 2y exp, bday: 29.06.2012 (12y)
 
-🌍 I'm based in Tatarstan\
-🧠 I'm learning programming\
-🤝 I'm open to collaborating on literally everything
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.flagcolorcodes.com%2Fdata%2FTatarstan.png&f=1&nofb=1&ipt=256dd9be5fd62878e83be14dafe996498e67d28310d83f126eb43a909ad34187&ipo=images" width="25" height="25" alt="RT_FLAG" /><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"></a> I'm based in Tatarstan\
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="25" height="25" alt="JS_LOGO" /><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"></a> I'm learning JS, HTML, CSS\
+🤝 This is my gaming setup
 
 ### Skills
 
