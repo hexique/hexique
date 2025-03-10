@@ -2,9 +2,9 @@ Hello, I am Your name!
 ========================
 Senior Scratch developer
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.flagcolorcodes.com%2Fdata%2FTatarstan.png&f=1&nofb=1&ipt=256dd9be5fd62878e83be14dafe996498e67d28310d83f126eb43a909ad34187&ipo=images" width="25" height="25" alt="RT_FLAG" /><a href="https://en.wikipedia.org/wiki/Tatarstan" target="_blank" rel="noreferrer"></a> I'm based in Tatarstan\
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="25" height="25" alt="JS_LOGO" /><a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"></a> I'm learning JS, HTML, CSS\
-<img src="setup.png" width="25" height="25" alt="PROGRAMMING_SETUP" /><a href="https://en.wikipedia.org/wiki/Gaming_computer" target="_blank" rel="noreferrer"></a> My programming setup
+<a href="https://en.wikipedia.org/wiki/Tatarstan" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.flagcolorcodes.com%2Fdata%2FTatarstan.png&f=1&nofb=1&ipt=256dd9be5fd62878e83be14dafe996498e67d28310d83f126eb43a909ad34187&ipo=images" width="25" height="25" alt="RT_FLAG" /></a> I'm based in Tatarstan\
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="25" height="25" alt="JS_LOGO" /></a> I'm learning JS, HTML, CSS\
+<a href="https://en.wikipedia.org/wiki/Gaming_computer" target="_blank" rel="noreferrer"><img src="setup.png" width="25" height="25" alt="PROGRAMMING_SETUP" /></a> My programming setup
 
 ### Skills
 
